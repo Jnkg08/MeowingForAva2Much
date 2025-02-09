@@ -45,8 +45,8 @@ function generateMessage(noCount) {
     "No",
     "Are you sure?",
     "AVA please",
-    "Don't do this to me :(",
-    "You're breaking Thanos Heart",
+    "Please I Watch All Your Tiktoks",
+    "You're breaking My Thanos Heart",
     "I'm a legend Thanos Please",
   ];
 
